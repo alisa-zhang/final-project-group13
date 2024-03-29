@@ -1,10 +1,10 @@
 # Team 13
-Alisa Zhang: aaz31@pitt.edu<br>
-   Analysis Notebook - <br>
+Alisa Zhang: aaz31@pitt.edu <br>
+<ul>Analysis Notebook - <br></ul>
 JJ Hiraldo: jah495@pitt.edu<br>
-  Analysis Notebook - <br>
+<ul>Analysis Notebook - <br></ul>
 Payton Lin: pal109@pitt.edu<br>
-  Analysis Notebook - <br>
+<ul>Analysis Notebook - <br></ul>
 
 Canvas Group Number 13<br>
 Dataset #1 (Alisa): <br>
