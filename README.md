@@ -2,7 +2,7 @@
 Alisa Zhang: aaz31@pitt.edu <br>
 <ul>Analysis Notebook - <br></ul>
 JJ Hiraldo: jah495@pitt.edu<br>
-<ul>Analysis Notebook - air quality in Pittsburgh Neighborhoods <br></ul>
+<ul>Analysis Notebook - number of parks in Pittsburgh Neighborhoods <br></ul>
 Payton Lin: pal109@pitt.edu<br>
 <ul>Analysis Notebook - Number of Steps in Pittsburgh Neighborhoods<br></ul>
 
