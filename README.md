@@ -4,7 +4,7 @@ Alisa Zhang: aaz31@pitt.edu <br>
 JJ Hiraldo: jah495@pitt.edu<br>
 <ul>Analysis Notebook - <br></ul>
 Payton Lin: pal109@pitt.edu<br>
-<ul>Analysis Notebook - <br></ul>
+<ul>Analysis Notebook - Number of Steps in Pittsburgh Neighborhoods<br></ul>
 
 Canvas Group Number 13<br>
 Dataset #1 (Alisa): <br>
