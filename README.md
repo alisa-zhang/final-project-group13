@@ -14,4 +14,4 @@ _description_<br>
 Dataset #3 (Payton):<br>
 _description_<br>
 
-This repository aims to determine the best neighborhood in Pittsburgh based on 3 datsets from the Western Pennsylvania Regional Data Center. 
+This repository aims to determine the best neighborhood in Pittsburgh for a resident's wellbeing based on 3 datsets from the Western Pennsylvania Regional Data Center. 
