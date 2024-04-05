@@ -7,8 +7,8 @@ Payton Lin: pal109@pitt.edu<br>
 <ul>Analysis Notebook - Number of Steps in Pittsburgh Neighborhoods<br></ul>
 
 Canvas Group Number 13<br>
-Dataset #1 (Alisa): <br>
-_description_<br>
+[Dataset #1 (Alisa)](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh): <br>
+_Car counts acquired by different types of counting devices_<br>
 Dataset #2 (JJ):<br>
 _description_<br>
 Dataset #3 (Payton):<br>
