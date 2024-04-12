@@ -1,10 +1,10 @@
 # Team 13
 Alisa Zhang: aaz31@pitt.edu <br>
-<ul>Analysis Notebook - number of cars counted in Pittsburgh Neighborhoods<br></ul>
+<ul>Analysis Notebook (aaz31.ipynb) - number of cars counted in Pittsburgh Neighborhoods<br></ul>
 JJ Hiraldo: jah495@pitt.edu<br>
-<ul>Analysis Notebook - number of parks in Pittsburgh Neighborhoods <br></ul>
+<ul>Analysis Notebook (parks.ipynb) - number of parks in Pittsburgh Neighborhoods <br></ul>
 Payton Lin: pal109@pitt.edu<br>
-<ul>Analysis Notebook - Number of Steps in Pittsburgh Neighborhoods<br></ul>
+<ul>Analysis Notebook (StepsInNeighborhood.ipynb) - Number of Steps in Pittsburgh Neighborhoods<br></ul>
 
 Canvas Group Number 13<br>
 [Dataset #1 (Alisa)](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh): <br>
