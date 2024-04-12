@@ -9,7 +9,7 @@ Payton Lin: pal109@pitt.edu<br>
 Canvas Group Number 13<br>
 [Dataset #1 (Alisa)](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh): <br>
 _Car counts acquired by different types of counting devices_<br>
-Dataset #2 (JJ):<br>
+Dataset #2 (JJ) https://data.wprdc.org/dataset/parks:<br>
 A count of the amount of parks in each neighborhood in Pittsburgh<br>
 Dataset #3 (Payton):<br>
 _description_<br>
